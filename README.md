@@ -1,5 +1,7 @@
 # Mech105
 Compilation of Matlab codes for mech 105 from Colorado State University
+# Heun
+Uses the Heun method to solve for differential equations over an interval
 # MachineEpsilon1
 Finds the machine Epsilon of matlab by deviding a number until it equals 0 and storring the previous 
 number
